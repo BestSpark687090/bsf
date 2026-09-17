@@ -1,6 +1,6 @@
 {
   "name": "spark-sf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "single file for my website",
   "main": "single.svg",
   "scripts": {
